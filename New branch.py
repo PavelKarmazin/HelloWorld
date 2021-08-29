@@ -18,4 +18,4 @@ def random_list(length, limit, series):
 
     return List
 
-print(random_list(50, 100, 10))
+print(random_list(50, 100, 5))
